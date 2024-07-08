@@ -22,4 +22,5 @@ urlpatterns = [
     path('meet/save/', views.SaveMent, name='savement'),
     path('about/', views.about, name='about'),
     path('doctors/', views.doctor_list, name='doctors'),
+   
 ]
