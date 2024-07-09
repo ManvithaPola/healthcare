@@ -1,6 +1,4 @@
-Sure, here's the revised version:
-
-### Prerequisites
+ Prerequisites
 
 1. Install XAMPP web server.
 2. Install any code editor (preferably VS Code or Sublime Text).
@@ -8,7 +6,7 @@ Sure, here's the revised version:
 4. Install Python.
 5. Install Anaconda.
 
-### Languages and Technologies Used
+Languages and Technologies Used
 
 1. HTML5/CSS3
 2. JavaScript
@@ -17,7 +15,7 @@ Sure, here's the revised version:
 5. Python, Django
 6. MySQL
 
-### Steps to Run the Project on Your Machine
+Steps to Run the Project on Your Machine
 
 1. Download and install XAMPP.
 2. Download and install VS Code.
@@ -32,4 +30,4 @@ Sure, here's the revised version:
 11. Place the model folder inside the `healthcare` folder. The path should be `healthcare\healthcare\model`.
 12. In VS Code, open a terminal and run the command `python manage.py runserver`.
 
-Your project should now be running locally.
+
